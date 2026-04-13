@@ -1,15 +1,15 @@
-
-## 🧠 About Me
-- Backend-focused engineer building **scalable APIs & distributed systems**
-- Experience handling **11K+ concurrent users**
-- Strong in **rate limiting, caching, load balancing**
-- Focused on **low-latency & high-uptime systems**
+👋 Hi, I'm Rudraksh 
+🚀 Backend Engineer | Systems Design | API Development  
+👨‍💻 Passionate about scalable systems, distributed architecture & performance  
+📚 Exploring system design, concurrency & backend optimization  
+💡 Building real-world backend systems with high throughput  
+🔭 Open to backend internships & system-level projects  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack  
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
@@ -17,61 +17,24 @@
 
 ---
 
-### ⚙️ Backend & Frameworks
+### 📚 Libraries & Frameworks:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-### 🗄️ Databases & Caching
+### 🛠️ Tools & Technologies:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
----
-
-### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 💼 Experience
-
-### Backend Developer Intern @ AnugatAI  
-**Oct 2025 – Mar 2026**
-
-- Built **scalable backend services (Node.js + TypeScript)**  
-- Maintained **~550ms latency & 99.9% uptime**  
-- Implemented:
-  - Rate limiting  
-  - Load balancing  
-  - Caching  
-- Handled **11K+ concurrent users**  
-- Reduced latency by **60%+ using Docker + Nginx optimization**
-
----
-
-## 📌 Projects
-
-### 🔹 Resume Analyzer (LLM + Backend)
-- Multi-stage ATS scoring system using **Phi3 (Ollama)**  
-- Dockerized LLM workloads  
-- Reduced latency by **40% via async processing**
-
-👉 https://github.com/rudrakshSoni-dev/resume-analyzer-server
-
----
-
-### 🔹 Distributed Job Scraping Engine
-- Built with **FastAPI + Playwright + Redis + Celery**  
-- Handles **high-concurrency scraping**  
-- Optimized PostgreSQL queries with indexing  
-
-👉 https://github.com/rudrakshSoni-dev/job-scraper-engine 
-
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
