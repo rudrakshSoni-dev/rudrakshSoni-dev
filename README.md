@@ -1,5 +1,5 @@
-<h1 align="center">Rudraksh Soni</h1>
-<h3 align="center">Backend Engineer • Node.js • TypeScript • Distributed Systems</h3>
+<h1>Rudraksh Soni</h1>
+<h3>Backend Engineer • Node.js • TypeScript • Distributed Systems</h3>
 
 <p align="center">
   <a href="https://github.com/your-username">GitHub</a> •
