@@ -1,7 +1,7 @@
 <h1>Rudraksh Soni</h1>
 <h3>Backend Engineer • Node.js • TypeScript • Distributed Systems</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/your-username">GitHub</a> •
   <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
   <a href="mailto:mrrssoni12@gmail.com">Email</a>
