@@ -1,13 +1,3 @@
-<h1>Rudraksh Soni</h1>
-<h3>Backend Engineer • Node.js • TypeScript • Distributed Systems</h3>
-
-<p>
-  <a href="https://github.com/your-username">GitHub</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="mailto:mrrssoni12@gmail.com">Email</a>
-</p>
-
----
 
 ## 🧠 About Me
 - Backend-focused engineer building **scalable APIs & distributed systems**
@@ -74,7 +64,7 @@
 - Dockerized LLM workloads  
 - Reduced latency by **40% via async processing**
 
-👉 https://github.com/your-username/resume-analyzer  
+👉 https://github.com/rudrakshSoni-dev/resume-analyzer-server
 
 ---
 
@@ -83,23 +73,5 @@
 - Handles **high-concurrency scraping**  
 - Optimized PostgreSQL queries with indexing  
 
-👉 https://github.com/your-username/job-scraper  
+👉 https://github.com/rudrakshSoni-dev/job-scraper-engine 
 
----
-
-## 🏆 Achievements
-- Solved **500+ DSA problems** (LeetCode + GFG)  
-- 🥇 2× Ideathon Winner (5-figure prize)  
-- 🥇 1st place – National Quiz (The Hindu)  
-
----
-
-## 🎯 Current Focus
-- Distributed systems  
-- Backend performance optimization  
-- System design  
-
----
-
-## ⚡ Philosophy
-> Build systems that scale, not just run.
