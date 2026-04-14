@@ -1,5 +1,5 @@
 👋 Hi, I'm Rudraksh 
-🚀 Backend Engineer | Systems Design | API Development  
+🚀 Backend Engineer | Systems Design | API Development | Distributed
 👨‍💻 Passionate about scalable systems, distributed architecture & performance  
 📚 Exploring system design, concurrency & backend optimization  
 💡 Building real-world backend systems with high throughput  
