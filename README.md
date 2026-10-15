@@ -1,40 +1,53 @@
-👋 Hi, I'm Rudraksh 
-🚀 Backend Engineer | Systems Design | API Development | Distributed
-👨‍💻 Passionate about scalable systems, distributed architecture & performance  
-📚 Exploring system design, concurrency & backend optimization  
-💡 Building real-world backend systems with high throughput  
-🔭 Open to backend internships & system-level projects  
+```console
+rudraksh@rudrakshh.live:~$ whoami
+Rudraksh Soni
+Backend and AI engineering student at BIT Mesra. Kota, Rajasthan, India.
+```
 
----
+### `$ cat about.md`
 
-## 💻 Tech Stack  
+I'm a **backend and AI engineering** student at BIT Mesra. I build **Node.js and FastAPI services**, **multi-agent systems with LangGraph and RAG**, and ship them with Docker to the cloud. I contribute to **Meshery (CNCF)** and I'm looking for a **6-month remote internship**.
 
-### 👨‍💻 Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+### `$ ls ~/experience`
 
----
+| Org | Role | When |
+| --- | --- | --- |
+| **Layer5 / Meshery** | Open Source Contributor | May 2026 - Present |
+| **AnugatAI** | SDE Intern | Oct 2025 - Mar 2026 |
 
-### 📚 Libraries & Frameworks:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+- **Meshery:** found a main-thread bottleneck in binary-to-JSON parsing and replaced it with a memory-efficient Base64/FormData Blob pipeline ([meshery#19535](https://github.com/meshery/meshery/pull/19535)). Built reusable, type-safe components for the Sistent design system ([sistent#1525](https://github.com/layer5io/sistent/pull/1525)).
+- **AnugatAI:** designed the relational data models behind production APIs serving 11K+ users at 99.9% uptime. Owned the company's public website end to end in Next.js, React and TypeScript.
 
----
+### `$ ls ~/projects`
 
-### 🛠️ Tools & Technologies:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+**[Cortex AI](https://github.com/rudrakshSoni-dev/Cortex-AI)** · [live](https://cortex-gateway-720170616128.asia-south1.run.app/)\
+Microservices platform (gateway, auth, chat, agent, billing) with a LangGraph supervisor that routes requests across 8 specialized agents, RAG on Qdrant, and Razorpay credit metering. Deployed on Google Cloud Run.\
+`Node.js` `Express` `LangGraph` `React 19` `MongoDB` `Redis` `Qdrant` `AWS S3`
+
+**[AI Coding Harness](https://github.com/rudrakshSoni-dev/AI-harness-claude-code)** · [website](https://ai-harness-claude-code-web.vercel.app/)\
+Bring-your-own-key agent CLI with a tool-calling loop that reads, searches and edits files. The safety layer is a path-jailed sandbox that blocks symlink escapes, diff review before writes, approval for shell commands, and API-key redaction.\
+`Node.js` `TypeScript` `pnpm workspaces` `LLM tool calling`
+
+**[HazeBusters](https://github.com/rudrakshSoni-dev/hazebusters-aws-buildathon)** · [live](https://main.dxwuap9t49si3.amplifyapp.com/)\
+Serverless air-quality advisor built for an AWS hackathon. Returns a CPCB-style AQI from the nearest station with a CAMS forecast fallback, plus Bedrock advice in English and Hindi with Polly audio.\
+`AWS Lambda` `API Gateway` `DynamoDB` `Bedrock` `SAM` `Python`
+
+### `$ ls ~/stack`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,nodejs,express,fastapi,react,nextjs&perline=10" alt="TypeScript, JavaScript, Python, Go, C++, Node.js, Express, FastAPI, React, Next.js" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mongodb,redis,docker,aws,gcp,linux,git&perline=10" alt="Tailwind CSS, PostgreSQL, MongoDB, Redis, Docker, AWS, Google Cloud, Linux, Git" />
+</p>
+
+Also: LangGraph, RAG, Qdrant, SQLAlchemy, Nginx, Amazon Bedrock.
+
+### `$ cat achievements.log`
+
+- Solved 600+ DSA problems across [LeetCode](https://leetcode.com/u/RudrakshSoni/), GeeksforGeeks and [NeetCode](https://neetcode.io/user/LuckySpeeder581).
+- Co-authored a research paper on CNN-based AQI classification and led the 3-person team that built the service.
+- Won the BPlan Ideathon twice.
+
+### `$ ./connect.sh`
+
+[rudrakshh.live](https://rudrakshh.live) · [LinkedIn](https://www.linkedin.com/in/rudraksh-soni-7674ab2aa/) · [X](https://x.com/soni_rudra81979) · [Email](mailto:mrrssoni12@gmail.com)
