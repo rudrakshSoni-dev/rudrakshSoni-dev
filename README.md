@@ -85,10 +85,13 @@ Serverless air-quality advisor built for an AWS hackathon. It returns a CPCB-sty
 ### `$ cat achievements.log`
 
 ```diff
++ Certified Meshery Contributor (CMC), Meshery / Layer5 (CNCF)
 + 600+ DSA problems solved across LeetCode, GeeksforGeeks and NeetCode
 + Co-authored a research paper on CNN-based AQI classification; led the 3-person team that built the service
 + Won the BPlan Ideathon twice
 ```
+<sub>Credentials: [Certified Meshery Contributor ↗](https://cloud.meshery.io/user/43438cbd-2bb7-4ebf-9dda-11e4428d64bd?tab=badges)</sub>
+<br />
 <sub>Profiles: [LeetCode](https://leetcode.com/u/RudrakshSoni/) · [NeetCode](https://neetcode.io/user/LuckySpeeder581)</sub>
 
 ---
