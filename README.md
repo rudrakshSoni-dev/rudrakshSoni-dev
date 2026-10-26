@@ -34,7 +34,7 @@ I also contribute to **[Meshery](https://github.com/meshery/meshery) (CNCF)**.
 | | Org | Role | When |
 |:-:|---|---|---|
 | 🟢 | **Layer5 (Meshery)** | Open Source Contributor | May 2026 – Present |
-| ⚪ | **AnugatAI** | SDE Intern | Oct 2025 – Mar 2026 |
+| ⚪ | **Anugat AI** | SDE Intern | Oct 2025 – Mar 2026 |
 
 - **Meshery:** found a main-thread bottleneck in binary-to-JSON parsing and replaced it with a memory-efficient Base64/FormData Blob pipeline · [meshery#19535](https://github.com/meshery/meshery/pull/19535)
 - **Sistent:** built reusable, type-safe components for Layer5's design system · [sistent#1525](https://github.com/layer5io/sistent/pull/1525)
